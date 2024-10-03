@@ -73,7 +73,7 @@ public class TelegramBot extends TelegramLongPollingBot {
         }
     }
 
-    private void testGit() {
-
+    private String testGit() {
+        return "String";
     }
 }
